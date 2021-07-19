@@ -1,0 +1,22 @@
+.panda-bg-info{
+    background-color: #fceae8; 
+}
+.categories img{
+    width: 100px;
+}
+.panda-cat-bg-w{
+    background-color: #ffa500;
+}
+
+.panda-cat-bg-b{
+background-color: #da70d6;
+}
+.panda-cat-bg-s{
+    background-color: #0000ff;
+    }
+.panda-btn-buy{
+    background-color: #ff458f;
+    color: white;
+    border-radius: 10px;
+    padding: 9px 25px;
+}
